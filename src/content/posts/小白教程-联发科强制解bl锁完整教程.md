@@ -2,7 +2,7 @@
 title: 小白教程-联发科强制解bl锁完整教程
 published: 2025-01-22
 description: '强解BL锁，不再等待180天！'
-image: './assets/images/imei.jpeg'
+image: './assets/images/bl.jpeg'
 tags: [强解BL锁]
 category: '刷机救砖'
 draft: false 
@@ -17,8 +17,6 @@ lang: ''
 
 系统建议使用win10可避免一些问题
 
-
-
 **准备工作**
 
 1. 一部未解除BL锁的手机
@@ -29,8 +27,6 @@ lang: ''
 
 4. 一个良好的网络环境
 
-
-
 **需要的文件**
 
 1. mtkclientgui压缩包  
@@ -38,8 +34,6 @@ lang: ''
 2. USB DK（一般用X64版本）
 
 说明：以上资源均可在下载站找到并下载，路径：首页→通用手机刷机资源→电脑工具→联发科强解bl锁工具
-
-
 
 **教程开始**
 
@@ -68,8 +62,6 @@ lang: ''
 ![640 (5).webp](assets/images/635cf678053cc53d391a75215505942691dddebc.webp)
 
 说明：如果连接没反应，请手动安装MTK驱动
-
-
 
 - **结束**
 
