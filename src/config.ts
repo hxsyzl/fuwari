@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: '无心的博客',
-  subtitle: 'Wuxin-Love',
+  title: '或许是一只龙的博客',
+  subtitle: '记录一点小东西',
   lang: 'zh_CN',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
     hue: 355,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'https://onani.cn/xinghui.webp',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'https://luotianorange.github.io/AstroBlog/_astro/banner.CWCABmff_Z2qtPh1.webp',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
@@ -31,7 +31,7 @@ export const siteConfig: SiteConfig = {
   },
   favicon: [    // Leave this array empty to use the default favicon
     {
-       src: 'https://p.qlogo.cn/gh/292857241/292857241/640',    // Path of the favicon, relative to the /public directory
+       src: 'https://q1.qlogo.cn/g?b=qq&nk=2042177831&s=640',    // Path of the favicon, relative to the /public directory
        //theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
        sizes: '128x128',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
      }
@@ -54,8 +54,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/g.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: '躺平虾',
-  bio: '酷安无心/Cookapk-Wuxin',
+  name: '或许是一只龙',
+  bio: '一只神秘小龙',
   links: [
     //{
       //name: 'Twitter',
@@ -70,9 +70,9 @@ export const profileConfig: ProfileConfig = {
      // url: 'https://store.steampowered.com',
    // },
    {
-    name: 'QQ群',
-    icon: 'fa6-brands:qq',
-    url: 'https://qm.qq.com/q/bqFc1coC1G',
+    name: 'telegram',
+    icon: 'fa6-brands:telegram',
+    url: 'https://t.me/knbnaz',
   },
 ],
 }
